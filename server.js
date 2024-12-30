@@ -28,7 +28,7 @@ app.post('/send-message', async (req, res) => {
                 }
             ],
             generationConfig: {
-                maxOutputTokens: 10000
+                maxOutputTokens: 100
             }
         });
 
