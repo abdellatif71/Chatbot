@@ -37,11 +37,11 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s ease; /* Smooth transition for background color */
+    transition: background-color 0.3s ease; 
 }
 
 #send-button:hover {
-    background-color: #1a5c6c; /* Darker shade for hover effect */
+    background-color: #1a5c6c; 
 }
 
 
