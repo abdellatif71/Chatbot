@@ -38,6 +38,4 @@ Navigate to http://localhost:3000 in your web browser.
 
 Send a Message:
 
-Enter your message in the input field.
-Click the "Send" button to send the message.
-Code Overview
+
