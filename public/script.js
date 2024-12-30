@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', function () {
     // Event listener for sending messages
     sendButton.addEventListener('click', sendMessage);
 
-    // Function to send a message
     async function sendMessage(event) {
         event.preventDefault();
         const message = messageInput.value;
