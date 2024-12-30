@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
             displayMessage('Failed to send message', 'error');
         }
     
-        messageInput.value = ''; // Clear input field
+        messageInput.value = ''; 
     }
     
     // Function to display a message in the chat window
